@@ -1,0 +1,14 @@
+adaptive_v2/
+adaptive_memory/
+__pycache__/
+*.pyc
+*.log
+*.profraw
+*.profdata
+*.bin
+corpus/
+crash-*
+min_crash*
+*oom-*
+*leak-*
+*timeout-*
